@@ -1,8 +1,11 @@
-site_name: Personal Portfolio
+site_name: Matt Higgins Bioinformatics Portfolio
 
 theme:
   name: material
   language: en
+  palette:
+    primary: teal
+    accent: deep orange
   features:
     - content.tooltips
     - navigation.instant
